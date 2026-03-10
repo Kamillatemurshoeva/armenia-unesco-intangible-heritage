@@ -4,7 +4,6 @@ Part of the **Open Data Armenia Project**.
 
 This repository collects metadata about Armenian elements listed in the UNESCO Intangible Cultural Heritage (ICH) database.
 
-The goal of this project is to make cultural heritage data easier to explore, reuse, and analyze for research, education, and digital humanities projects.
 
 ---
 
@@ -62,4 +61,4 @@ armenia_unesco.json
 
 ## Project
 
-This repository is part of the **Open Data Armenia Project**, which aims to collect and structure publicly available Armenian cultural and historical datasets for research and open data initiatives.
+This repository is part of the **Open Data Armenia**, which aims to collect and structure publicly available Armenian cultural and historical datasets for research and open data initiatives.
